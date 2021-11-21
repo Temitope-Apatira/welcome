@@ -1,0 +1,111 @@
+
+  .navbar{
+      overflow: hidden;
+      position: absolute;
+  }
+
+#anna{
+    font-family: 'Sofia';font-size: 22px;
+}
+  .green{
+      color: #1EC294;
+  }
+  
+  .body {
+    background-image:linear-gradient(to bottom left, #FAF0E3, #F8F8FC,#FBFBFC,#FAF0E3);
+    font-family: -apple-system, 
+      BlinkMacSystemFont, 
+      "Segoe UI", 
+      Roboto, 
+      Oxygen-Sans, 
+      Ubuntu, 
+      Cantarell, 
+      "Helvetica Neue", 
+      sans-serif;
+  }
+  
+  .counter{
+    color: #333;
+    margin: 0 auto;
+  }
+
+  .li {
+    list-style-type: none;
+  }
+  
+  .counter li {
+    display: inline-block;
+    font-size: 15px;
+    list-style-type: none;
+  }
+
+  .foot li {
+    display: inline-block;
+    list-style-type: none;
+  }
+  
+  .counter li span {
+    display: block;
+    font-size: 50px;
+  }
+
+  .foot li span {
+  
+    font-size: 5px;
+ 
+  }
+
+  .child1{
+      top: 500px;
+
+  }
+
+  .child2{
+    
+    top: 450px;
+  }
+
+  
+  .child3{
+    
+    top: 400px;
+  }
+
+  
+  .foot{
+    
+    top: 350px;
+  }
+
+  
+  .banner{
+    background-image:url("images/welcome.JPG");
+    height: 250px;
+  }
+
+  .store{
+  background-color:#03A678 ;
+  height: 100px;
+  border-radius:15px;
+  display: flex;
+  /* justify-content: space-around; */
+  color: red;
+  padding-top: 20px;
+  }
+  .stor{
+    background-color:#03A678 ;
+  justify-content:center ;
+    border-radius:15px;
+
+    color: red;
+    padding-top: 20px;
+    }
+
+  .fab{
+    color:  #03A678;
+    font-size: larger;
+  }
+
+  .foott{
+text-align: center;
+  }
